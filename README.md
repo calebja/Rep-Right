@@ -6,6 +6,6 @@ I co-developed this project with a Hackathon team during VTHacks '25. This proje
 
 - Won Hackathon award for **"Best Implementation of AI"**.
 
-## Disclaimer
+## Disclaimers
 
 Video is processed locally in your browser while using the application. No data is uploaded to any sources. This app is intended to provide general exercise form cues and help collegiate athletes and bodybuilders to correct their training form. This application should never be used as a substitute for coaching or physical therapy. Avoid using the application to perform activities that may cause damage or physical injury to yourself or others. Exercise at your own risk.
